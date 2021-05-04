@@ -1,0 +1,14 @@
+# begoniain-user 10 QP1A.190711.020 V12.0.5.0.QGGINXM release-keys
+- manufacturer: xiaomi
+- platform: mt6785
+- codename: begoniain
+- flavor: begoniain-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: V12.0.5.0.QGGINXM
+- tags: release-keys
+- fingerprint: Redmi/begoniain/begoniain:10/QP1A.190711.020/V12.0.5.0.QGGINXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: begoniain-user-10-QP1A.190711.020-V12.0.5.0.QGGINXM-release-keys
+- repo: redmi_begoniain_dump
