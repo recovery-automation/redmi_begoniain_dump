@@ -1,0 +1,14 @@
+# begoniain-user 11 RP1A.200720.011 V12.5.10.0.RGGINXM release-keys
+- manufacturer: xiaomi
+- platform: mt6785
+- codename: begoniain
+- flavor: begoniain-user
+- release: 11
+- id: RP1A.200720.011
+- incremental: V12.5.10.0.RGGINXM
+- tags: release-keys
+- fingerprint: Redmi/begoniain/begoniain:11/RP1A.200720.011/V12.5.10.0.RGGINXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: begoniain-user-11-RP1A.200720.011-V12.5.10.0.RGGINXM-release-keys
+- repo: redmi_begoniain_dump
